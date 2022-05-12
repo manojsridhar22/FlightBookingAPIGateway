@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\bin\Debug\netcoreapp2.1\configuration.json
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\bin\Debug\netcoreapp2.1\FlightBookingAPIGateway.deps.json
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\bin\Debug\netcoreapp2.1\FlightBookingAPIGateway.runtimeconfig.json
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\bin\Debug\netcoreapp2.1\FlightBookingAPIGateway.runtimeconfig.dev.json
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\bin\Debug\netcoreapp2.1\FlightBookingAPIGateway.dll
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\bin\Debug\netcoreapp2.1\FlightBookingAPIGateway.pdb
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\obj\Debug\netcoreapp2.1\FlightBookingAPIGateway.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\obj\Debug\netcoreapp2.1\FlightBookingAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\obj\Debug\netcoreapp2.1\FlightBookingAPIGateway.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\obj\Debug\netcoreapp2.1\FlightBookingAPIGateway.AssemblyInfo.cs
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\obj\Debug\netcoreapp2.1\FlightBookingAPIGateway.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\obj\Debug\netcoreapp2.1\FlightBookingAPIGateway.dll
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\obj\Debug\netcoreapp2.1\FlightBookingAPIGateway.pdb
+C:\Users\User\source\repos\FlightBookingAPIGateway\FlightBookingAPIGateway\obj\Debug\netcoreapp2.1\FlightBookingAPIGateway.genruntimeconfig.cache
